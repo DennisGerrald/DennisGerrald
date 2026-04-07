@@ -1,2 +1,2 @@
-## Hi there 👋I'm Dennis Gerrald
+## Hi there 👋I'm Dennis Gerrald,
 
