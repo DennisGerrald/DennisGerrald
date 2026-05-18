@@ -10,7 +10,7 @@
                                                                                                  
                                                                                     
 ```
-
+---
 ## 👋 About Me
 
 I'm a passionate Software Developer and Cybersecurity Enthusiast focused on building modern, scalable, and impactful digital solutions across web, desktop, and mobile platforms.
@@ -25,6 +25,7 @@ I'm a passionate Software Developer and Cybersecurity Enthusiast focused on buil
   - [LinkedIn](https://linkedin.com) |[Email](mailto:elondenis174@gmail.com) | [Twitter](https://twitter.com) | [Instagram](https://intagram.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: When I'm not coding, you'll probably find me playing chess, watching tech movies and exploring nature.
+---
 
 ## 💻 Languages & Frameworks
 
